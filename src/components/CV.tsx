@@ -1,4 +1,4 @@
-import { Mail, Phone, MapPin, Globe, Briefcase, GraduationCap, Award, Languages, Code, Database, Palette, Facebook, MessageCircle, Twitter, Github, Linkedin } from 'lucide-react';
+import { Mail, Phone, MapPin, Globe, Briefcase, GraduationCap, Award, Languages, Code, Palette, Facebook, MessageCircle, Twitter, Github, Linkedin } from 'lucide-react';
 
 const ProfessionalCV = () => {
   const personalInfo = {
