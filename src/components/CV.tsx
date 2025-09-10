@@ -7,7 +7,7 @@ const ProfessionalCV = () => {
     phone: "+8801845855131",
     email: "fazla@fazla.pro",
     location: "Sunamganj, Bangladesh",
-    profile_image: "https://i.ibb.co.com/ds0kwNYy/Fazla-Rabbi-1.jpg"
+    profile_image: "https://i.ibb.co.com/nMf3K8Mt/a-professional-headshot-photograph-of-a-47r1-L4-YQRD-WUL0-SB6bi-Pw-Qvy-MQo0-ESUe-FCy-FAQ-8-ABg.jpg"
   };
 
   const coverLetterText = `Dear Hiring Manager,
